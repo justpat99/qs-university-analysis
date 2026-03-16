@@ -8,6 +8,11 @@ This project analyzes the QS Asian University Rankings dataset.
 - Explore factors affecting university rankings
 - Examine research-related metrics
 
+## Dataset
+
+Source: Kaggle – [QS Asian University Rankings](https://www.kaggle.com/datasets/bilalabdulmalik/top-300-asian-universities-qs-rankings-2024)     
+Original data from QS (Quacquarelli Symonds) Rangings 2024
+
 ## Tools Used
 - Python
 - Pandas
