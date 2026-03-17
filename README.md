@@ -25,3 +25,7 @@ Original data from QS (Quacquarelli Symonds) Rangings 2024
 - Box plot
 - Scatter plot
 - Correlation heatmap
+
+## Credits
+This project is based on a tutorial from [YouTube](https://youtu.be/ha4CHHJ7iNQ?si=fogYSFe9Vl9q3Fo4).
+I followed the tutorial to understand the workflow and added my own improvements and explanations.
